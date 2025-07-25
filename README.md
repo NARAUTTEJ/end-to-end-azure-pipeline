@@ -59,4 +59,14 @@ This repository contains an end-to-end Azure Data Engineering project that simul
                │  (Reporting & Insights) │
                └─────────────────────────┘
 
+##  Skills Demonstrated
+
+- Building ADF pipelines (batch + incremental)
+- Using watermarking logic for data freshness
+- Writing PySpark in Databricks for transformations
+- Implementing Medallion Architecture in ADLS
+- Creating parameterized Linked Services and datasets
+- Secure access with Azure AD + Key Vault
+- (Optional) Visualizing business data in Power BI
+
 
