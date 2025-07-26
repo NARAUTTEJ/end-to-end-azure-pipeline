@@ -1,0 +1,17 @@
+{
+    "name": "Sql_sink",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "Sql_database",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "AzureSqlTable",
+        "schema": [],
+        "typeProperties": {
+            "schema": "dbo",
+            "table": "source_cars_data"
+        }
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}

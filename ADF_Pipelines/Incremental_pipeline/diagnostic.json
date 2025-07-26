@@ -1,0 +1,23 @@
+{
+    "now": "2025-07-26T14:03:09.404Z",
+    "perfNow": 20497678,
+    "diagnosticCorrelation": "ae738dca-fd3d-46d0-9b1d-4ca57de22334",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.071425.1",
+        "environmentType": 3,
+        "resourceName": "projectadfnara",
+        "resourceRegion": "eastus",
+        "resourceGroup": "Project1_resource",
+        "subscriptionId": "a16f941e-81c2-4d15-8866-44c09de5b3c3",
+        "sessionId": "NNwfuYZ0vkWRtwJTSWNnSB",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "ff2d4e58-4470-4d1c-aee2-235f4b564494"
+    },
+    "additionalInfo": {
+        "selectedResource": "Incremental_pipeline",
+        "selectedResourceType": "pipeline"
+    }
+}

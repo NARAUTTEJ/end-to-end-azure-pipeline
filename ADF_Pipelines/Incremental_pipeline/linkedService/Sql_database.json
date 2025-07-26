@@ -1,0 +1,17 @@
+{
+    "name": "Sql_database",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzureSqlDatabase",
+        "typeProperties": {
+            "server": "carsdata.database.windows.net",
+            "database": "cars_database",
+            "encrypt": "mandatory",
+            "trustServerCertificate": false,
+            "authenticationType": "SQL",
+            "userName": "sqlserver",
+            "encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDNBNzE0MkJBLTNFQjAtNEQ0MS04NTA4LTUzRkZEQjVFNjA0NF9mYmI5YzM4Yy1iZDQ4LTQzZjQtYTJhOS0xMjBiYWVlYzZkZWMiDQp9"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+selected resource name:		Source_prep
+selected resource type:		pipeline
+factory name:			projectadfnara
+factory location:		eastus
+subscription id:		a16f941e-81c2-4d15-8866-44c09de5b3c3
+time of download (UTC):		Sat, 26 Jul 2025 14:03:03 GMT
