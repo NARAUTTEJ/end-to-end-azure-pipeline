@@ -13,8 +13,8 @@ This is a complete **end-to-end data engineering solution** built on the Azure c
 | ⚙️ Apache Spark       | Scalable processing of big data        |
 | 📦 Azure Data Lake    | Layered data storage (Bronze → Gold)   |
 | 🌐 REST API           | External data source integration       |
-| ⭐ Star Schema        | Dimensional modeling for reporting     |
-| 🐙 GitHub             | Version control and project showcase   |
+| ⭐ Star Schema         | Dimensional modeling for reporting     |
+| 🐙 GitHub              | Version control and project showcase   |
 
 ---
 
@@ -31,7 +31,6 @@ This is a complete **end-to-end data engineering solution** built on the Azure c
 
 ## 🧱 Architecture Overview
 
-![Main Pipeline Architecture](architecture/Main_Path.png.png)
 
 This architecture follows the **medallion pattern**:
 
@@ -43,7 +42,6 @@ This architecture follows the **medallion pattern**:
 
 ## 📊 Star Schema Design
 
-![Star Schema](architecture/Star_Schema.png)
 
 ### 🔹 Fact Table:
 - `fact_sales`: Sales metrics such as revenue, units sold, etc.
